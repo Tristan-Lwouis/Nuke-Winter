@@ -1,0 +1,6 @@
+[submodule "Nuke-Winter-Front"]
+	path = Nuke-Winter-Front
+	url = https://github.com/Tristan-Lwouis/Nuke-Winter-Front.git
+[submodule "Nuke-Winter-Back"]
+	path = Nuke-Winter-Back
+	url = https://github.com/Tristan-Lwouis/Nuke-Winter-Back.git
