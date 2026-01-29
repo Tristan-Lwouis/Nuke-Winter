@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Nuke Winter Banner](Nuke-Winter-Front/public/assets/images-scene/banner.jpg)
+![Nuke Winter Banner](assets/banner.jpg)
 
 ![Angular](https://img.shields.io/badge/Angular-21-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0.1-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
